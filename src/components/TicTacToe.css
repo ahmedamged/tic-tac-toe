@@ -58,7 +58,7 @@
 
 @media screen and (max-width: 768px) {
     .title {
-        font-size: 3rem;
+        font-size: 2rem;
     }
 
     .board {
@@ -67,8 +67,8 @@
     }
 
     .boxes {
-        width: 125px;
-        height: 125px;
+        width: 100px;
+        height: 100px;
     }
 
     .boxes img {
