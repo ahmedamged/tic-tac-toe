@@ -55,3 +55,23 @@
     padding: 20px;
     height: 50px;
 }
+
+@media screen and (max-width: 768px) {
+    .title {
+        font-size: 3rem;
+    }
+
+    .board {
+        height: fit-content;
+        width: fit-content;
+    }
+
+    .boxes {
+        width: 125px;
+        height: 125px;
+    }
+
+    .boxes img {
+        margin: 25px;
+    }
+}
