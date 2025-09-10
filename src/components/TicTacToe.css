@@ -79,4 +79,9 @@
         width: 180px;
         height: 70px;
     }
+
+    .title img {
+        padding: 10px;
+        height: 32px;
+    }
 }
