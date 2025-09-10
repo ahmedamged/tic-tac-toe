@@ -67,11 +67,16 @@
     }
 
     .boxes {
-        width: 100px;
-        height: 100px;
+        width: 90px;
+        height: 90px;
     }
 
     .boxes img {
         margin: 25px;
+    }
+
+    .reset {
+        width: 180px;
+        height: 70px;
     }
 }
